@@ -1,0 +1,13 @@
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\bin\Debug\netcoreapp3.1\02_LINQ.exe
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\bin\Debug\netcoreapp3.1\02_LINQ.deps.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\bin\Debug\netcoreapp3.1\02_LINQ.runtimeconfig.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\bin\Debug\netcoreapp3.1\02_LINQ.runtimeconfig.dev.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\bin\Debug\netcoreapp3.1\02_LINQ.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\bin\Debug\netcoreapp3.1\02_LINQ.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\obj\Debug\netcoreapp3.1\02_LINQ.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\obj\Debug\netcoreapp3.1\02_LINQ.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\obj\Debug\netcoreapp3.1\02_LINQ.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\obj\Debug\netcoreapp3.1\02_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\obj\Debug\netcoreapp3.1\02_LINQ.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\obj\Debug\netcoreapp3.1\02_LINQ.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\02_LINQ\obj\Debug\netcoreapp3.1\02_LINQ.genruntimeconfig.cache

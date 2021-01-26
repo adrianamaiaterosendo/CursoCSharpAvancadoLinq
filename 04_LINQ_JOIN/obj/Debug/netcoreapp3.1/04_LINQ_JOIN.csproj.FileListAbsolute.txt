@@ -1,0 +1,13 @@
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\bin\Debug\netcoreapp3.1\04_LINQ_JOIN.exe
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\bin\Debug\netcoreapp3.1\04_LINQ_JOIN.deps.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\bin\Debug\netcoreapp3.1\04_LINQ_JOIN.runtimeconfig.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\bin\Debug\netcoreapp3.1\04_LINQ_JOIN.runtimeconfig.dev.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\bin\Debug\netcoreapp3.1\04_LINQ_JOIN.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\bin\Debug\netcoreapp3.1\04_LINQ_JOIN.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\obj\Debug\netcoreapp3.1\04_LINQ_JOIN.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\obj\Debug\netcoreapp3.1\04_LINQ_JOIN.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\obj\Debug\netcoreapp3.1\04_LINQ_JOIN.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\obj\Debug\netcoreapp3.1\04_LINQ_JOIN.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\obj\Debug\netcoreapp3.1\04_LINQ_JOIN.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\obj\Debug\netcoreapp3.1\04_LINQ_JOIN.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\04_LINQ_JOIN\obj\Debug\netcoreapp3.1\04_LINQ_JOIN.genruntimeconfig.cache

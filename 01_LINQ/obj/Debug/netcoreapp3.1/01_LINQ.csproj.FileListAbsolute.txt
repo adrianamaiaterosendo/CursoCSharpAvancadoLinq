@@ -1,0 +1,13 @@
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\obj\Debug\netcoreapp3.1\01_LINQ.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\obj\Debug\netcoreapp3.1\01_LINQ.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\obj\Debug\netcoreapp3.1\01_LINQ.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\obj\Debug\netcoreapp3.1\01_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\bin\Debug\netcoreapp3.1\01_LINQ.exe
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\bin\Debug\netcoreapp3.1\01_LINQ.deps.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\bin\Debug\netcoreapp3.1\01_LINQ.runtimeconfig.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\bin\Debug\netcoreapp3.1\01_LINQ.runtimeconfig.dev.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\bin\Debug\netcoreapp3.1\01_LINQ.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\bin\Debug\netcoreapp3.1\01_LINQ.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\obj\Debug\netcoreapp3.1\01_LINQ.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\obj\Debug\netcoreapp3.1\01_LINQ.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_LINQ_LAMBDA\01_LINQ\obj\Debug\netcoreapp3.1\01_LINQ.genruntimeconfig.cache
